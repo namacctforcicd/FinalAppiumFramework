@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Appium Suite">
+
+    <parameter name="device" value="android_bn_real" />
+    <parameter name="appiumServerURL" value="http://0.0.0.0:4723" />
+
+    <test name="Appium BarnesNoble test">
+        <classes>
+            <class name="tests.BarnesNobleReal"/>
+        </classes>
+    </test>
+
+</suite>

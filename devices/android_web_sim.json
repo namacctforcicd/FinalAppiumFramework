@@ -1,0 +1,9 @@
+{
+  "platformName": "android",
+  "automationName": "UIAutomator2",
+  "deviceName": "ca714ae1",
+  "browserName": "chrome",
+  "appWaitDuration": "30000"
+
+
+}

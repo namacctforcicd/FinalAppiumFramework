@@ -1,0 +1,53 @@
+Functionality included in Framework:
+1. Logging with log4j.properties file
+2. JSON files for our device simulators
+3. Reporting using extentreporting dependency and ExtentReport class
+4. MobileActions class to initialize our Appium Driver
+5. Excel sheet reading using the Apache.poi dependency
+6. ReadingCapabilityFromJSON class to differentiate between iOS and Android
+7. AppConstant class to make changing variable value easier(Optional)
+8. Using the Page object Model, each Mobile page has its own class
+9. A test Folder contains different test scenarios
+10. The xml files contain the necessary parameters to run the test cases.
+
+Dependencies include:
+io.appium
+testng
+json-simple
+log4j
+scf4j-core ???
+extentreports
+org.apache.poi  - poi
+org.apache.poi - poi-ooxml
+
+Folders Added:
+- config folder with log4j.properties file
+- devices folder contains the sim and real device json file configurations
+- output folder that shows reporting and screenshots
+- reporting is a subfolder of the output folder; Uses extent reporting to record test results
+- screenshots is a subfolder of the reporting folder
+- Inside the src/main/java folder, we have 2 subfolders: a core and separate reporting folder
+- Inside the core folder, we have 2 subfolders: a drivers folder and separate readers folder
+- Inside the drivers folder, I have 2 java classes: Attributes and MobileActions
+- The Attributes class is really an enum containing different variables for choices for the mobile app
+- The MobileActions class contains different methods that can be used by different java classes
+- Inside the readers folder, we have 2 java classes: ExcelReader for connecting to an excel sheet and a ReadCapabilityfromJSON class
+- The ReadCapabilityFromJSON class reads the info from the device/ json files
+- The reporting folder contains the ExtentReporting java class for creating the reporting files
+- In the src/test/java folder, we have 3 subfolders: Constants, pages, and tests
+- The constants folder contains the AppConstants java class that's designed to make it easier to change variable values
+- We use the page object model, so in the pages folder, we have classes for every single page for the app
+- The tests folder contain java classes for different test scenarios
+- The suites folder contains the xml files use to run the tests
+- testdata folder contains the excel sheet used in testing
+
+
+Finding certain xpath in Android
+https://medium.com/@fareenaimran/how-to-define-xpath-appium-1823444afca2
+
+TouchActions:
+https://appium.readthedocs.io/en/stable/en/writing-running-appium/touch-actions/
+
+Shadow DOM element Plugins:
+https://stackoverflow.com/questions/55761810/how-to-automate-shadow-dom-elements-using-selenium
+

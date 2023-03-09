@@ -1,0 +1,9 @@
+{
+  "platformName": "android",
+
+  "appium:deviceName": "ca714ae1",
+  "appium:appPackage": "com.swaglabsmobileapp",
+  "appium:appActivity": "com.swaglabsmobileapp.MainActivity",
+  "appium:noReset": true,
+  "appium:automationName": "UIAutomator2"
+}

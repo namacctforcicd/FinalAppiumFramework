@@ -1,0 +1,11 @@
+{
+  "platformName": "android",
+  "appium:automationName": "UIAutomator2",
+  "appium:app": "storage:filename=sl.apk",
+  "appium:deviceName": "Android GoogleAPI Emulator",
+  "appium:platformVersion": "11",
+  "appPackage": "com.swaglabsmobileapp",
+  "appActivity":"com.swaglabsmobileapp.MainActivity",
+  "appium:build": "test-build",
+  "appium:name": "test-name"
+}

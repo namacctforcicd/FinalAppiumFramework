@@ -1,0 +1,14 @@
+{
+  "platformName": "ios",
+  "appium:automationName": "XCUITest",
+  "appium:deviceName": "iPhone 14",
+  "appium:app": "/Users/nnamdiwilliams/Documents/appium/apps/sl.app",
+  "appium:bundleId": "com.saucelabs.SwagLabsMobileApp",
+  "appium:platformVersion": "16.2",
+  "appium:appWaitDuration": "30000",
+  "appium:usePrebuiltWDA": true,
+  "appium:noReset": true,
+  "appium:wdaLocalPort": "8100",
+  "appium:derivedDataPath": "/Users/nnamdiwilliams/Library/Developer/Xcode/DerivedData/WebDriverAgent-epteccbcttbeuygaxzueelvsptod",
+  "appium:udid": "79A6FB90-8053-4A0F-B5A2-78D879E5B1E2"
+}

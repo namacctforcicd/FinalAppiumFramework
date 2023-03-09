@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SauceLabs Appium Suite">
+
+    <parameter name="device" value="sl_android_rd" />
+    <parameter name="appiumServerURL" value="https://appiumstudent:5e06ddea-63ba-47d1-8833-c05088ef82c9@ondemand.us-west-1.saucelabs.com:443/wd/hub" />
+    <test name="Android test">
+        <classes>
+            <class name="tests.SauceLabTests"/>
+        </classes>
+    </test>
+
+</suite>

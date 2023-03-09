@@ -1,0 +1,12 @@
+{
+  "platformName": "ios",
+  "appium:automationName": "XCUITest",
+  "appium:deviceName": "N'Namdi’s iPod touch",
+  "appium:bundleId": "com.nascar.iphone",
+  "appium:platformVersion": "15.7.3",
+  "appium:appWaitDuration": "30000",
+  "appium:usePrebuiltWDA": true,
+  "appium:noReset": true,
+  "appium:derivedDataPath": "/Users/nnamdiwilliams/Library/Developer/Xcode/DerivedData/WebDriverAgent-epteccbcttbeuygaxzueelvsptod",
+  "appium:udid": "f3ea05a31843e64a4cfa579280156de33103e517"
+}

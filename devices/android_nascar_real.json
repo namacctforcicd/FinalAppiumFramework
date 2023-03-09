@@ -1,0 +1,9 @@
+{
+  "platformName": "android",
+  "appium:automationName": "UIAutomator2",
+  "appium:deviceName": "ca714ae1",
+  "appium:appPackage": "com.nascar.nascarmobile",
+  "appium:appActivity": ".ui.activity.MainActivity",
+  "appium:noReset": true,
+  "appium:appWaitDuration": "5000"
+}

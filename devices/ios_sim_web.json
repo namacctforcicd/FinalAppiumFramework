@@ -1,0 +1,11 @@
+{
+  "appium:platformName": "ios",
+  "appium:automationName": "XCUITest",
+  "appium:browserName": "safari",
+  "appium:deviceName": "iPhone 14",
+  "appium:platformVersion": "16.2",
+  "appWaitDuration": "30000",
+  "appium:udid": "79A6FB90-8053-4A0F-B5A2-78D879E5B1E2",
+  "appium:derivedDataPath": "/Users/nnamdiwilliams/Library/Developer/Xcode/DerivedData/WebDriverAgent-epteccbcttbeuygaxzueelvsptod",
+  "appium:setWebContentDebuggingEnabled": true
+}

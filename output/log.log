@@ -1,0 +1,34 @@
+[2023-03-03] [11:33:17] [ INFO] [MobileActions.java:initMobileDriver:35] - Capabilities successfully initialized
+[2023-03-03] [11:33:25] [ INFO] [MobileActions.java:initMobileDriver:44] - Android driver initialized
+[2023-03-03] [11:33:25] [ INFO] [MobileActions.java:initMobileDriver:52] - WebDriverWait 'wait' initialized with wait object
+[2023-03-03] [11:33:27] [ INFO] [MobileActions.java:takeScreenShot:242] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsAppiumFrameWorkUpdates/output/reporting/screenshots/2023_03_03_11_33_25.png
+[2023-03-03] [12:51:55] [ INFO] [MobileActions.java:initMobileDriver:35] - Capabilities successfully initialized
+[2023-03-03] [12:52:58] [ INFO] [MobileActions.java:initMobileDriver:35] - Capabilities successfully initialized
+[2023-03-03] [12:53:07] [ INFO] [MobileActions.java:initMobileDriver:44] - Android driver initialized
+[2023-03-03] [12:53:07] [ INFO] [MobileActions.java:initMobileDriver:52] - WebDriverWait 'wait' initialized with wait object
+[2023-03-03] [12:53:15] [ INFO] [MobileActions.java:takeScreenShot:242] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsAppiumFrameWorkUpdates/output/reporting/screenshots/2023_03_03_12_53_14.png
+[2023-03-03] [12:55:35] [ INFO] [MobileActions.java:initMobileDriver:35] - Capabilities successfully initialized
+[2023-03-03] [12:55:44] [ INFO] [MobileActions.java:initMobileDriver:44] - Android driver initialized
+[2023-03-03] [12:55:44] [ INFO] [MobileActions.java:initMobileDriver:52] - WebDriverWait 'wait' initialized with wait object
+[2023-03-03] [12:59:07] [ INFO] [MobileActions.java:initMobileDriver:35] - Capabilities successfully initialized
+[2023-03-03] [12:59:16] [ INFO] [MobileActions.java:initMobileDriver:44] - Android driver initialized
+[2023-03-03] [12:59:16] [ INFO] [MobileActions.java:initMobileDriver:52] - WebDriverWait 'wait' initialized with wait object
+[2023-03-03] [13:01:02] [ INFO] [MobileActions.java:initMobileDriver:35] - Capabilities successfully initialized
+[2023-03-03] [13:01:09] [ INFO] [MobileActions.java:initMobileDriver:44] - Android driver initialized
+[2023-03-03] [13:01:09] [ INFO] [MobileActions.java:initMobileDriver:52] - WebDriverWait 'wait' initialized with wait object
+[2023-03-03] [13:02:11] [ INFO] [MobileActions.java:takeScreenShot:242] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsAppiumFrameWorkUpdates/output/reporting/screenshots/2023_03_03_13_02_10.png
+[2023-03-03] [13:02:58] [ INFO] [MobileActions.java:initMobileDriver:35] - Capabilities successfully initialized
+[2023-03-03] [13:03:07] [ INFO] [MobileActions.java:initMobileDriver:44] - Android driver initialized
+[2023-03-03] [13:03:07] [ INFO] [MobileActions.java:initMobileDriver:52] - WebDriverWait 'wait' initialized with wait object
+[2023-03-03] [13:04:11] [ INFO] [MobileActions.java:takeScreenShot:242] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsAppiumFrameWorkUpdates/output/reporting/screenshots/2023_03_03_13_04_08.png
+[2023-03-03] [13:05:22] [ INFO] [MobileActions.java:initMobileDriver:35] - Capabilities successfully initialized
+[2023-03-03] [13:05:31] [ INFO] [MobileActions.java:initMobileDriver:44] - Android driver initialized
+[2023-03-03] [13:05:32] [ INFO] [MobileActions.java:initMobileDriver:52] - WebDriverWait 'wait' initialized with wait object
+[2023-03-03] [13:06:48] [ INFO] [MobileActions.java:takeScreenShot:242] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsAppiumFrameWorkUpdates/output/reporting/screenshots/2023_03_03_13_06_47.png
+[2023-03-03] [13:09:29] [ INFO] [MobileActions.java:initMobileDriver:35] - Capabilities successfully initialized
+[2023-03-03] [13:09:36] [ INFO] [MobileActions.java:initMobileDriver:44] - Android driver initialized
+[2023-03-03] [13:09:36] [ INFO] [MobileActions.java:initMobileDriver:52] - WebDriverWait 'wait' initialized with wait object
+[2023-03-03] [13:09:39] [ INFO] [MobileActions.java:takeScreenShot:242] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsAppiumFrameWorkUpdates/output/reporting/screenshots/2023_03_03_13_09_37.png
+[2023-03-03] [15:04:05] [ INFO] [MobileActions.java:initMobileDriver:35] - Capabilities successfully initialized
+[2023-03-03] [15:04:12] [ INFO] [MobileActions.java:initMobileDriver:44] - Android driver initialized
+[2023-03-03] [15:04:12] [ INFO] [MobileActions.java:initMobileDriver:52] - WebDriverWait 'wait' initialized with wait object

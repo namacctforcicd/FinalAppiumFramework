@@ -1,0 +1,9 @@
+{
+  "platformName": "android",
+  "appium:automationName": "UIAutomator2",
+  "appium:deviceName": "ca714ae1",
+  "appium:appPackage": "bn.ereader",
+  "appium:appWaitActivity": "com.nook.lib.shop.WebStorefrontActivity",
+  "appium:noReset": true,
+  "appium:appWaitDuration": "5000"
+}

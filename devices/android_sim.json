@@ -1,0 +1,8 @@
+{
+  "platformName": "android",
+  "appium:automationName": "UIAutomator2",
+  "appium:deviceName": "emulator-5554",
+  "appium:app": "/Users/nnamdiwilliams/Documents/appium/apps/sl.apk",
+  "appium:appPackage": "com.swaglabsmobileapp",
+  "appium:appWaitActivity": "com.swaglabsmobileapp.MainActivity"
+}
